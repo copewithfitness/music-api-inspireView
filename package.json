@@ -1,0 +1,14 @@
+{
+  "name": "music-api",
+  "version": "1.0.0",
+  "description": "Backend API for music application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
